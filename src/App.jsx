@@ -5,6 +5,7 @@ function App() {
   return (
     <>
       <Button />
+      <Button type="secondary" label="secondary btn" />
     </>
   );
 }
